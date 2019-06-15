@@ -1,0 +1,24 @@
+{
+  "name": "stop-dblclick-scroll",
+  "version": "1.0.0",
+  "description": "stop dblclick event that fires page scroll",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/git-onepixel/stop-dblclick-scroll.git"
+  },
+  "keywords": [
+    "dblclick",
+    "ios",
+    "scroll"
+  ],
+  "author": "Onepixel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/git-onepixel/stop-dblclick-scroll/issues"
+  },
+  "homepage": "https://github.com/git-onepixel/stop-dblclick-scroll#readme"
+}
