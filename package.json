@@ -1,6 +1,6 @@
 {
   "name": "stop-dblclick-scroll",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "stop dblclick event that fires page scroll",
   "main": "index.js",
   "scripts": {
